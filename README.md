@@ -45,12 +45,12 @@ My goal is simple: to design and implement an end-to-end warehouse system to hel
 
 ## 🌍 you can connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/winforddavid)
+LinkedIn:[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/winforddavid)
 
-[![Notion](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.notion.so/Databricks-Warehouse-on-Azure-608464ab990c41c4825ed5fa849c243b?source=copy_link)
-Notion: https://www.notion.so/Databricks-Warehouse-on-Azure-608464ab990c41c4825ed5fa849c243b?source=copy_link
-[![Upwork](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.upwork.com/freelancers/~018cb56d7db53bbd15)
-Upwork: https://www.upwork.com/freelancers/~018cb56d7db53bbd15
+Notion:[![Notion](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.notion.so/Databricks-Warehouse-on-Azure-608464ab990c41c4825ed5fa849c243b?source=copy_link)
+ 
+Upwork:[![Upwork](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.upwork.com/freelancers/~018cb56d7db53bbd15)
+
 
 ---
 
