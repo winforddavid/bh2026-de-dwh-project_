@@ -43,7 +43,7 @@ I’m a data engineer with wide industry experience, transitioning across data e
 
 My goal is simple: to design and implement an end-to-end warehouse system to help you understand your data better.
 
-## 🌍 you can connect with me:
+## 🌍 You can connect with me:
 
 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/winforddavid)
 
@@ -56,7 +56,7 @@ Upwork:  [![Upwork](https://img.shields.io/badge/Website-000000?style=for-the-ba
 
 ## 🎓 Ref Courses:
 
-- 🏅 **SQL Full Course** → [Start here](https://www.datawithbaraa.com/course/sql-full-course-for-beginners)
+- **SQL Intro Course** → [Watch on YouTube](https://www.datawithbaraa.com/course/sql-full-course-for-beginners)
 - **SQL Full Course** → [Watch on YouTube](https://youtu.be/SSKVgrwhzus)
 - **Python Full Course** → [Watch on YouTube](https://www.youtube.com/playlist?list=PLNcg_FV9n7qZGfFl2ANI_zISzNp257Lwn)
 
