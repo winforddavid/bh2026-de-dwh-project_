@@ -39,7 +39,7 @@ This project uses the 5 pillars well architect **Medallion Architecture**:
 ## 🌟 About Me
 
 Hi, I’m **Winford David**, also known as **Winf or Winnie** to my friends and family.
-I’m a data engineer with wide industry experience, transitioning across data engineering, analytics, and modern data platforms. I transform data projects into real business insights.
+I’m a data engineer with wide industry experience, transitioning across data engineering, analytics, and modern data platforms, where I transform data projects into real business insights.
 
 My goal is simple: to design and implement an end-to-end warehouse system to help you understand your data better.
 
