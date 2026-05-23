@@ -47,7 +47,7 @@ My goal is simple: to design and implement an end-to-end warehouse system to hel
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/winforddavid)
 
-[![upwork](https://www.upwork.com/freelancers/~018cb56d7db53bbd15?mp_source=share)
+[![Upwork](https://www.upwork.com/freelancers/~018cb56d7db53bbd15?mp_source=share)
 
 ---
 
